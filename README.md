@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [QuantumAIdesign.com](https://quantumaidesign.com/)
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, Redux, Backend Development**
 
 - 👯 I’m looking to collaborate on [QuantumAIdesign.com](https://quantumaidesign.com/)
 
